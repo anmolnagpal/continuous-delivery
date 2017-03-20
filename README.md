@@ -1,4 +1,4 @@
-# Deep Dive into Continuous Delivery of Microservices on AWS
+# Continuous Delivery of Microservices on AWS
 
 The goal of this project is to enable developers play with continuous delivery of microservices on [Awazon Web Services (AWS)](https://aws.amazon.com/) cloud. Those planning to do **startups** could get tips and code samples to get started with development, testing and releasing (continuously deploying) the software thereby gaining the competitive edge for their products.
 
